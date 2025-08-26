@@ -2,6 +2,22 @@
 
 A web application for managing warehouse operations, allowing product tracking, note creation, and user management.
 
+## Screens and Videos
+<img width="1914" height="936" alt="1" src="https://github.com/user-attachments/assets/11e3e34f-208f-4b5c-a251-3224ed9b8b7f" />
+<img width="1912" height="936" alt="3" src="https://github.com/user-attachments/assets/91a3e54d-2452-4431-8e3a-bfaf2396857b" />
+<img width="1914" height="937" alt="4" src="https://github.com/user-attachments/assets/2f1061c5-5482-497a-ac9a-30e165aef07e" />
+<img width="1916" height="936" alt="6" src="https://github.com/user-attachments/assets/05477132-c63a-4aa3-9626-579f9859a31f" />
+<img width="1914" height="934" alt="7" src="https://github.com/user-attachments/assets/58328cf9-00f0-4953-bb4d-6af76637facb" />
+<img width="1916" height="934" alt="8" src="https://github.com/user-attachments/assets/ef5fbbb7-3f5c-44d8-8112-fb0f4fc56acc" />
+<img width="1914" height="937" alt="9" src="https://github.com/user-attachments/assets/5dd4ecd9-bce2-4886-8ca7-9c2b65c8bd78" />
+<img width="1915" height="938" alt="11" src="https://github.com/user-attachments/assets/6842ef53-9698-4a37-a09b-ae97e5abf6f9" />
+<img width="1908" height="930" alt="12" src="https://github.com/user-attachments/assets/7fd7c85f-fad9-4368-9d61-6cfcd55c573a" />
+<img width="1910" height="862" alt="13" src="https://github.com/user-attachments/assets/69c5aed8-5f13-4e68-85c3-485d13af1760" />
+<img width="1908" height="935" alt="14" src="https://github.com/user-attachments/assets/d8fed975-f487-4877-a74d-04d956a532ec" />
+<img width="1913" height="937" alt="15" src="https://github.com/user-attachments/assets/b9c77669-97e3-4bb1-9554-725bc0c30643" />
+
+
+
 ## Technologies and Languages
 
 ### Frontend
